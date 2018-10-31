@@ -1,4 +1,4 @@
-# Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app)![depshield](https://ci.dev.depshield.sonatype.org/badges/depshield-ci/create-react-app/depshield.svg)
+# Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app)  [![depshield](https://ci.dev.depshield.sonatype.org/badges/depshield-ci/create-react-app/depshield.svg)]
 
 
 Create React apps with no build configuration.
